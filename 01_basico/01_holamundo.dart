@@ -12,6 +12,7 @@
 // MEJORAR: asdfa sfdasf
 // REVISAR: asdfasf asfd
 // ERROR: asdf asf d
+// IGNORAR: DSJLKSJDFLKJ
 
 //- INFO asdfasdfasdf
 //? DUDAR asdfasdf
@@ -19,6 +20,8 @@
 //! REVISAR
 //* ERROR
 //// SDFKJSALKDF
+
+// ESTO ES UNA PRUEBA
 
 void main() {
   print('Hola Mundo');
